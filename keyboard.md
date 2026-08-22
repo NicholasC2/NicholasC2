@@ -1,6 +1,8 @@
 this is for a custom keyboard
 ## PCB
 [desire65-pcb](<https://github.com/akyp/desire65-pcb>)
+
+!!Important [stabilizers](<https://cannonkeys.com/products/tx-screw-in-stabilizers>) are required for this pcb
 ## Case
 [bakeneko-65 case](<https://github.com/kkatano/bakeneko-65>)
 ## Switches
